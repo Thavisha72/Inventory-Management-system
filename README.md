@@ -6,7 +6,7 @@ It allows users to manage product inventory, track stock levels, and perform aut
 
 The project also demonstrates **data processing and machine learning**, including predictive features for inventory trends.
 
-![Home Page](static/images/home.png)
+![Home Page](static/images/main.png)
 
 ---
 

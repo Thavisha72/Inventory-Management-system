@@ -27,6 +27,10 @@ git clone https://github.com/Thavisha72/Inventory-Management-System.git
 cd Inventory-Management-System
 \`\`\`
 
+
+### Extract datasets.zip and take out both sales and inventry datasets to the project folder
+
+
 ### 2. Create and activate a virtual environment
 \`\`\`powershell
 python -m venv .venv
